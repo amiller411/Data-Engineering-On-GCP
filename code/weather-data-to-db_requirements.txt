@@ -4,3 +4,4 @@ pandas==1.5.3
 pyarrow==10.0.1
 cloud-sql-python-connector[pymysql]==1.2.0
 google-cloud-pubsub==2.15.2
+numpy==1.26.4
